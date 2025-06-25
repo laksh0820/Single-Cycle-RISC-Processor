@@ -1,4 +1,4 @@
-# 🧮 ALU Design and Control Unit Specification
+# 🧮 Single-Cycle RISC Processor
 
 ## 📘 Overview
 
