@@ -82,7 +82,7 @@ Connects all components (registers, ALU, memory) allowing instruction execution 
 ## 📂 File Reference
 
 - `Instruction_Format.txt` — Instruction format tables
-- `Control_Encodings.txt` — Control Signals to carry-out the instructions
+- `Signal_Encodings.txt` — Control Signals to carry-out the instructions
 - `README.md` — Project documentation (this file)
 
 ---
